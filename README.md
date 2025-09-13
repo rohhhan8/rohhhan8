@@ -1,5 +1,5 @@
 <!-- ✨ HEADER WITH TYPING EFFECT -->
-<h1 align="left">Hi 👋, I'm Rohan Mahato</h1>
+<h1 align="center">Hi 👋, I'm Rohan Mahato</h1>
 <h3 align="center">Aspiring Software Engineer | Java & DSA Enthusiast | Full-Stack Developer | AI Learner</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0e75b6&center=true&vCenter=true&width=600&lines=☕+Java+Developer;🚀+DSA+and+Problem+Solving+Enthusiast;💻+Full+Stack+Engineer;🤖+Exploring+AI+%26+Machine+Learning;🌱+Lifelong+Learner" alt="Typing SVG">
