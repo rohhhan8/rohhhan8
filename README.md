@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0e75b6&center=true&vCenter=true&width=650&lines=☕+Java+Developer;🚀+DSA+and+Problem+Solving+Enthusiast;💻+Full+Stack+Engineer;🤖+Exploring+AI+%26+Machine+Learning;🌱+Lifelong+Learner" alt="Typing SVG">
 </p>
-<h5 align="center"><i>☕ Passionate about solving complex problems with Java, DSA, and building scalable systems</i></h5>
+<h5 align="center"><i> Passionate about solving complex problems with Java, DSA, and building scalable systems</i></h5>
 
 <!-- QUICK STATS BADGES (Profile views, Followers, Stars, Problems) -->
 <p align="center">
@@ -14,7 +14,6 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/rohhhan8?label=Stars&style=social" alt="GitHub Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Problems-250%2B-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTguNSAwQzMuODA4IDAgMCAzLjgwOCAwIDguNVMzLjgwOCAxNyAxNC41IDE3QzE5LjE5MiAxNyAyMiAwIDEyIDIiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="Problems Solved" />
 </p>
 
 ---
