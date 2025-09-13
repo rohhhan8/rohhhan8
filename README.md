@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Mahato</h1>
+<h1 align="left">Hi 👋, I'm Rohan Mahato</h1>
 <h3 align="center">Aspiring Software Engineer | Java & DSA Enthusiast | Full-Stack Developer | AI Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohhhan8&label=Profile%20views&color=0e75b6&style=flat" alt="rohhhan8" /> </p>
