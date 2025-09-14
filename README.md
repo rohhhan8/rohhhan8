@@ -25,7 +25,7 @@
 - 💬 Ask me about **Java, DSA, React.js, REST APIs, and freelancing**  
 - 📝 I sometimes write blogs at [My BlogHub](https://my-blog-pre01.vercel.app/)  
 - 📫 Reach me at **rohanmahato7197@gmail.com**  
-- 📄 Explore my resume → [My Resume](https://www.resumemate.io/resume/hcdNWVNAAKNATWC)  
+- 📄 Explore my resume → [My Resume](https://drive.google.com/file/d/10PDInLEqd0Ijp6SkbdOKtgcPB046-Vng/view?usp=drivesdk)  
 - ⚡ Fun fact: *I balance coding marathons with late-night gaming 🎮 and evening tea breaks ☕ with friends*  
 
 ---
