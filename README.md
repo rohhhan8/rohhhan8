@@ -22,7 +22,7 @@
 - 🤝 I’m open to collaborate on **full-stack MERN/Next.js projects and AI-driven web apps**.  
 - 💬 Ask me about **React.js, Next.js, Node.js, REST APIs, and AI integration**.  
 - 📫 How to reach me: **rohanmahato7197@gmail.com**
-- 📄 Explore my resume → **[My Resume]**(https://www.resumemate.io/resume/sfmZKOUQPTTFPBJ)
+- 📄 Explore my resume → **[My Resume]** (https://www.resumemate.io/resume/sfmZKOUQPTTFPBJ)
 - ⚡ Fun fact: *When I'm not coding, I'm probably running my Instagram meme page—I find humor and creativity are a great balance to logic!*
 ---
 
