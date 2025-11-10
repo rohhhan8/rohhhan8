@@ -108,7 +108,7 @@
 
 ## 🌎 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohhhan8&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=python" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohhhan8&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=python,typescript" alt="Top Languages" />
 </p>
 
 ---
