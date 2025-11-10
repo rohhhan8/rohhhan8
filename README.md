@@ -20,7 +20,7 @@
 - 🔭 I’m currently leading the **Smart Crop Advisory System**, an end-to-end platform for SIH.  
 - 🌱 I’m learning about **System Design, advanced CI/CD pipelines, and AWS deployment**.  
 - 🤝 I’m open to collaborate on **full-stack MERN/Next.js projects and AI-driven web apps**.  
-- 💬 Ask me about **React.js, Next.js, Node.js, REST APIs, and AI integration**.  
+- 💬 Ask me about **React.js, Node.js, Java Core, OOPS, REST APIs, and AI integration**.  
 - 📫 How to reach me: **rohanmahato7197@gmail.com**
 - 📄 Explore my resume → [**My Resume**](https://www.resumemate.io/resume/sfmZKOUQPTTFPBJ)
 - ⚡ Fun fact: *When I'm not coding, I'm probably running my Instagram meme page—I find humor and creativity are a great balance to logic!*
