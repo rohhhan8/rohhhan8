@@ -88,30 +88,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohhhan8&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohhhan8&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohhhan8&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌎 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohhhan8&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=python,typescript" alt="Top Languages" />
-</p>
-
----
 
 ## 📈 GitHub Activity Graph
 <p align="center">
