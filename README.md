@@ -39,11 +39,12 @@
 - Integrating **Chart.js with Redux Toolkit** for real-time analytics and efficient state management.
 - Leveraging Generative AI workflows and prompt engineering to accelerate feature delivery.
 
-### 🌿 Smart Crop Advisory System | Team Lead (SIH)
-*An end-to-end platform offering crop recommendations, weather alerts, and pest detection.*
-- **Live Demo:** [agri-assist-test-il27.vercel.app](https://agri-assist-test-il27.vercel.app/)
-- Led the end-to-end development, building a responsive, mobile-first frontend in **React.js**.
-- Designed a scalable microservice-based architecture to integrate ML models via Node.js backend APIs.
+### 🐱 Sidequests | Full Stack Engineer Intern
+*Remote • Jan 2026 – Mar 2026*
+- Spearheaded the end-to-end development and UI/UX design of the user onboarding flow, including complete sign-up and sign-in pages.
+- Architected the backend using **NestJS**, implementing robust **Role-Based Access Control (RBAC)** and secure authentication APIs.
+- Designed and developed the dynamic user profile page from scratch, focusing on intuitive layouts and seamless data fetching.
+- Optimized application state management and frontend data flow utilizing **Redux** and the **Context API** to eliminate prop drilling and enhance performance.
 
 ---
 
@@ -64,6 +65,7 @@
 ### ⚙️ Backend, AI & Databases
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
