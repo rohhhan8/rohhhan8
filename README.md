@@ -24,8 +24,9 @@
 - 🌱 I’m heavily focused on mastering advanced frontend micro-animations and sophisticated interactions using **Framer Motion and GSAP**.  
 - 🎨 I have a strong passion for designing scalable design systems, specifically for **data-dense enterprise dashboards** and complex dark-mode layouts.
 - 🚀 I actively leverage AI prompting and generative workflows to architect visual interfaces and accelerate UI-level refactoring.
+- 🌐 Explore my complete portfolio: **[rohanmahato-portfolio.vercel.app](https://rohanmahato-portfolio.vercel.app/)**
 - 📫 How to reach me: **[rohanmahato7197@gmail.com](mailto:rohanmahato7197@gmail.com)**
-- 📄 Explore my resume → [**My Resume**](https://drive.google.com/file/d/1ccnsrJDmOBrTk0925kRlocBdinnNvB5z/view)
+- 📄 View my resume → [**My Resume**](https://drive.google.com/file/d/1ccnsrJDmOBrTk0925kRlocBdinnNvB5z/view)
 - ⚡ Fun fact: *When I'm not tweaking keyframes or perfecting layouts, I'm probably running [my Instagram meme page](https://www.instagram.com/cocacoladietcan)—humor and creativity are the perfect balance to logic!*
 
 ---
@@ -84,6 +85,11 @@
 
 ## 🌟 Featured Projects
 
+### 🦉 Lingo (Duolingo Clone) | *Next.js, React, Tailwind CSS*
+- Built a highly interactive, gamified language-learning platform replicating premium e-learning UI/UX.
+- Engineered complex state management to track user progress, lesson completion, and interactive quizzes.
+- Leveraged modern CSS and micro-animations to create a seamless, engaging, and highly responsive user journey.
+
 ### 🤖 Crisp AI | *Next.js, MongoDB, Gemini API, AssemblyAI*
 - Engineered a complex, multi-API SaaS workflow for dynamic AI-driven interview preparation.
 - Integrated **apilayer** for resume parsing, **Gemini API** for dynamic question generation, and **AssemblyAI** for real-time voice analysis.
@@ -106,6 +112,7 @@
 
 ## 🔗 Let's Connect
 <p align="center">
+  <a href="https://rohanmahato-portfolio.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rohanmahato/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rohanmahato7197@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/cocacoladietcan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
