@@ -21,7 +21,7 @@
 
 ## ✨ About Me
 
-- 💼 **SDE 1 at Raga AI** — 1+ year building production healthcare SaaS · **#1 frontend contributor** in primary repo
+- 💼 **SDE 1 at Raga AI** — Building production healthcare SaaS · **#1 frontend contributor** in primary repo
 - 🚀 Owned 13 production modules end-to-end — dashboards, LMS, AI receptionist, forms builder, insights analytics
 - 📊 **200+ merged PRs · 94% merge rate · 476 commits** — shipped consistently in fast-paced agile environment
 - 🎨 Strong design engineering mindset — portfolio built from scratch with product designer inspiration
